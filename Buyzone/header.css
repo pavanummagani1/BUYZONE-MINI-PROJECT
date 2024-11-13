@@ -73,7 +73,9 @@ header {
     text-align: center;
     border: none;
 }
-
+::placeholder{
+    text-align: center;
+}
 .searchinput {
     height: 100%;
     flex-grow: 1;
